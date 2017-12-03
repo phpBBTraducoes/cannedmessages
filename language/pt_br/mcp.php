@@ -21,7 +21,7 @@ if (empty($lang) || !is_array($lang))
 $lang = array_merge($lang, array(
 	'CANNEDMESSAGES_EXPLAIN_MANAGE'		=> 'Use este formulário para adicionar, remover, editar e reordenar mensagens e categorias enlatadas.',
 	'CANNEDMESSAGES_EXPLAIN_ADD_EDIT'	=> 'Este formulário é para criar e editar mensagens ou categorias.',
-	'CREATE_CANNEDMESSAGE'				=> 'Crie nova mensagem enlatada',
+	'CREATE_CANNEDMESSAGE'				=> 'Criar nova mensagem enlatada',
 	'CANNEDMESSAGE_NAME'				=> 'Nome da mensagem enlatada',
 	'CANNEDMESSAGE_LIST'				=> 'Lista de mensagens enlatadas',
 	'NO_CANNEDMESSAGES'					=> 'Sem mensagens enlatadas',
@@ -29,7 +29,7 @@ $lang = array_merge($lang, array(
 	'CANNEDMESSAGE_IS_CAT'				=> 'É categoria',
 	'CANNEDMESSAGE_CONTENT'				=> 'Conteúdo da mensagem',
 	'NO_PARENT'							=> 'Nenhum',
-	'CANNEDMESSAGE_PARENT'				=> 'Pai da mensagem',
+	'CANNEDMESSAGE_PARENT'				=> 'Mensagem Pai',
 	'MESSAGE_NAME_REQUIRED'				=> 'O nome da mensagem é obrigatório',
 	'MESSAGE_CONTENT_REQUIRED'			=> 'O conteúdo da mensagem é necessário quando a mensagem não é uma categoria',
 	'CANNEDMESSAGE_UPDATED'				=> 'A mensagem enlatada foi atualizada.',
